@@ -1,0 +1,6 @@
+framework module Pods_try_Connect {
+  umbrella header "Pods-try Connect-umbrella.h"
+
+  export *
+  module * { export * }
+}

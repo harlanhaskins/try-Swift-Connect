@@ -1,0 +1,15 @@
+PODS:
+  - BarcodeScanner (2.1.2)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - BarcodeScanner
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  BarcodeScanner: 84b6e5c75b7efad823381ee9bde846b13171a009
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: c51aa52b3821088f942e13cd8d65a27f1cae2fee
+
+COCOAPODS: 1.3.1
